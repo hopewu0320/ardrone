@@ -13,3 +13,4 @@ $ rosrun cvg_sim_gazebo laser_test.py
 
 $ rosrun cvg _sim_gazebo cv_bridge_test.py
 
+# ardrone
