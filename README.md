@@ -1,8 +1,10 @@
 # ROS-parrot-drone
-# parrot-ardrone-ROS
-Project in NCHU EE in Taiwan on 2021/10/21 
-Ubuntu 18 ROS Melodic 
-Using hokuyo lidar to avoid obstacle,finally land on the green box
+
+>Prerequisite
+Ubuntu 18 ROS Melodic
+
+- Project in NCHU EE in Taiwan on 2021/10/21 
+- Using hokuyo lidar to avoid obstacle,finally land on the green box
 
 
 $ roslaunch  cvg_sim_gazebo ardrone_testworld.launch
@@ -13,4 +15,6 @@ $ rosrun cvg_sim_gazebo laser_test.py
 
 $ rosrun cvg _sim_gazebo cv_bridge_test.py
 
-# ardrone
+#Demo Video
+https://studio.youtube.com/video/LnZh4nPyVI8/edit
+
