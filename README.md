@@ -19,6 +19,6 @@ $ rosrun cvg_sim_gazebo laser_test.py
 ```python
 $ rosrun cvg _sim_gazebo cv_bridge_test.py
 ```
-#Demo Video
+# Demo Video
 https://studio.youtube.com/video/LnZh4nPyVI8/edit
 
